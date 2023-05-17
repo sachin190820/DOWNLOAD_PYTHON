@@ -11,7 +11,7 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #E3F2FD;
+  background: #fafafa;
 }
 .download-btn{
   outline: none;
